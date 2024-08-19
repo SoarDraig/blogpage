@@ -22,3 +22,8 @@ Programming:
   label: Programming
   permalink: /Programming
   description: Programming tag description
+
+Lua:
+  label: Lua
+  permalink: /Lua
+  description: Lua tag description

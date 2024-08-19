@@ -1,7 +1,7 @@
 ---
 slug: LuaNew
 title: Lua特性初见
-tags: [Lua, tool]
+tags: [Lua]
 date: 2024-08-19
 keywords: [Lua]
 draft: false
