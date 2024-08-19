@@ -1,0 +1,24 @@
+C++:
+  label: C++
+  permalink: /C++
+  description: C++ tag description
+
+C#:
+  label: C#
+  permalink: /C#
+  description: C# tag description
+
+Unity:
+  label: Unity
+  permalink: /Unity
+  description: Unity tag description
+
+Algorithms:
+  label: Algorithms
+  permalink: /Algorithms
+  description: Algorithms tag description
+
+Programming:
+  label: Programming
+  permalink: /Programming
+  description: Programming tag description

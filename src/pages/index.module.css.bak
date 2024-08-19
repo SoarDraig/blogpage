@@ -1,0 +1,41 @@
+.heroBanner {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  padding: 2rem 0;
+}
+
+.section__title {
+  color: #4a90e2;
+  margin-bottom: 1rem;
+}
+
+.personalInfo {
+  padding: 3rem 0;
+  background-color: #f5f5f5;
+}
+
+.personalDetails {
+  list-style: none;
+  padding: 0;
+}
+
+.personalDetails li {
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.bullet {
+  margin-right: 0.5rem;
+  color: #4a90e2;
+  font-size: 1.2rem;
+}
+
+.buttons {
+  margin-top: 2rem;
+}
+
+.buttons .button {
+  margin-right: 1rem;
+}

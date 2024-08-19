@@ -1,0 +1,14 @@
+{
+    "label": "数据结构与算法",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "title": "数据结构与算法学习资源",
+        "description": "深入学习数据结构与算法。",
+        "slug": "OSLearn",
+        "keywords": [
+            "数据结构",
+            "算法"
+        ]
+    }
+}
