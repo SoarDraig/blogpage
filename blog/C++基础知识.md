@@ -1,6 +1,6 @@
 ---
 slug: C++Learn1
-title: C++高级特性基础——左值、右值，移动语义，完美转发，RVO。
+title: C++高级特性——左值、右值，移动语义，完美转发，RVO。
 tags: [C++, Programming]
 date: 2024-08-03
 keywords: [C++, Advanced Programming]

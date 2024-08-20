@@ -99,7 +99,7 @@ const config = {
 
 
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/SoarDraig',
             label: 'GitHub',
             position: 'right',
           },
@@ -117,6 +117,10 @@ const config = {
                 label: 'Docs',
                 to: '/docs/',
               },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
             ],
           },
           {
@@ -126,14 +130,26 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
               },
+              {
+                label: 'QQ',
+                href: 'https://tool.gljlw.com/qqq/?qq=2593147206',
+              },
+              {
+                label: 'Steam',
+                href: 'https://steamcommunity.com/id/SoarDraig/',
+              }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Home',
+                href: 'https://soardraig.top/',
+              },
+              {
+                label: 'BiliBili',
+                href: 'https://space.bilibili.com/399516150',
               },
               {
                 label: 'GitHub',

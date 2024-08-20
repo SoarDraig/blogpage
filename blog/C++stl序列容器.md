@@ -1,6 +1,6 @@
 ---
 slug: C++stl
-title: C++标准库——stl库入门
+title: C++标准库——STL库入门
 tags: [C++]
 date: 2024-05-22
 keywords: [C++]
