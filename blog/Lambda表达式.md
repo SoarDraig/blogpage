@@ -1,6 +1,6 @@
 ---
 slug: C++Lambda
-title: C++高级特性 —— Lambda表达式
+title: C++高级特性——Lambda表达式
 tags: [C++, Programming]
 date: 2024-08-19
 keywords: [C++, Advanced Programming]
