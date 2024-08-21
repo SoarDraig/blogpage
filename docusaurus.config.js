@@ -39,32 +39,13 @@ const config = {
     [
       'docusaurus-lunr-search',
       {
-        languages: ['zh']
-      }
+        languages: ['zh'],
+      },
     ],
     [
-      '@docusaurus/plugin-sitemap'],
-    [
-      '@docusaurus/plugin-pwa',
+      '@docusaurus/plugin-sitemap',
       {
-        debug: true,
-        offlineModeActivationStrategies: [
-          'appInstalled',
-          'standalone',
-          'queryString',
-        ],
-        pwaHead: [
-          {
-            tagName: 'link',
-            rel: 'icon',
-            href: '/img/logo.png',
-          },
-          {
-            tagName: 'link',
-            rel: 'manifest',
-            href: '/manifest.json', // 自定义 manifest.json
-          },
-        ],
+        id: 'my-custom-sitemap', // 赋予一个唯一的 ID
       },
     ],
   ],
