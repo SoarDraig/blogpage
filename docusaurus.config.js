@@ -8,6 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+
   title: "Draig's Blog",
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
@@ -34,6 +35,39 @@ const config = {
     locales: ['zh'],
   },
 
+  plugins: [
+    [
+      'docusaurus-lunr-search',
+      {
+        languages: ['zh']
+      }
+    ],
+    [
+      '@docusaurus/plugin-sitemap'],
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/logo.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json', // 自定义 manifest.json
+          },
+        ],
+      },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -70,7 +104,6 @@ const config = {
       }),
     ],
   ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -88,11 +121,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'right',
-            label: 'Docs',
+            label: '文档',
           },
           {
             to: '/blog',
-            label: 'Blog',
+            label: '博客',
             position: 'right',
             activeBaseRegex: '^/blog',
           },
@@ -164,6 +197,14 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      // giscus: {
+      //   repo: 'SoarDraig/blogpage',
+      //   repoId: 'R_kgDOMlSXsA',
+      //   category: 'Show and tell',
+      //   categoryId: 'DIC_kwDOMlSXsM4Ch099',
+      //   theme: 'light',
+      //   darkTheme: 'dark',
+      // },
     }),
 };
 
