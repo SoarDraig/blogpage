@@ -1,8 +1,8 @@
 ---
 slug: C++Lambda
-title: C++高级特性——Lambda表达式
+title: 伪装成函数的Lambda表达式
 tags: [C++, Programming]
-date: 2024-08-19
+date: 2024-04-28
 keywords: [C++, Advanced Programming]
 draft: false
 hide_table_of_contents: false

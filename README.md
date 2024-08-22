@@ -1,41 +1,9 @@
-# Website
+# 欢迎！~
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+这是 **Draig's Blog** 的源代码仓库。这个项目基于Docusaurus构建，使用阿里云服务器与Vercel托管，基于vscode编辑。
 
-### Installation
+## 项目内容
+- 博客内容为对编程等内容的**深入思考**。  
+- 文档内容为对编程等内容的**学习**。
 
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+内容为个人编辑，如有不合理，请指正。

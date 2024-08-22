@@ -1,8 +1,8 @@
 ---
 slug: C++AdPtr
-title: C++高级特性——智能指针
+title: 关于智能指针的再学习与理解。
 tags: [C++, Programming]
-date: 2024-08-05
+date: 2024-07-18
 keywords: [C++, Advanced Programming]
 draft: false
 hide_table_of_contents: false
