@@ -1,12 +1,15 @@
 ---
 slug: C++Learn1
 title: C++高级特性——左值、右值，移动语义，完美转发，RVO。
-tags: [C++, Programming]
+tags:
+  - C++
+  - Programming
 date: 2024-04-18
-keywords: [C++, Advanced Programming]
+keywords:
+  - C++
+  - Advanced Programming
 draft: false
 hide_table_of_contents: false
-summary: 这是我博客文章的摘要内容，只显示在文章列表中。
 ---
 本文章总结了C++中的左值与右值、左右值引用、移动语义、完美转发以及返回值优化（RVO）的概念和应用。
 <!--truncate-->

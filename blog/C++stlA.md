@@ -21,9 +21,7 @@ hide_table_of_contents: false
 本文将介绍序列式容器，也可说顺序型容器；
 
 > 本文章**侧重于容器的理解与核心**，**不涉及具体使用**，如需具体使用方法，请访问:
-> - [STL:Vector](/docs/C++/C++Vector)
-> - [STL:List](/docs/C++/C++List)  
-> 
+> - [STL:Vector](/docs/C++/C++List&Vector)
 > 更多请访问官网
 
 ---

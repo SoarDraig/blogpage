@@ -1,12 +1,15 @@
 ---
 slug: C++AdPtr
 title: 关于智能指针的再学习与理解。
-tags: [C++, Programming]
+tags:
+  - C++
+  - Programming
 date: 2024-07-18
-keywords: [C++, Advanced Programming]
+keywords:
+  - C++
+  - Advanced Programming
 draft: false
 hide_table_of_contents: false
-summary: 这是我博客文章的摘要内容，只显示在文章列表中。
 ---
 
 本篇文章深入探讨 C++ 中的智能指针，介绍 std::unique_ptr、std::shared_ptr 和 std::weak_ptr 三种常见的智能指针类型，分别讨论它们的特点、使用场景以及常见的内存管理问题。通过代码示例和个人理解，解释了智能指针如何利用 RAII 技术解决手动内存管理中的困扰，如循环引用、悬空指针等问题，最终帮助开发者更高效地管理内存。

@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "97185d056114718f",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ddf70b7e2269d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480273c316acb88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/待学清单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31383acd89a59cd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7286bd4d9f95dccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ddf7d9d8c29aaab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbe1c0a9bf25c7bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7979e4f27d72dfe7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37330140648a922a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2838dc9298cd0b47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2466259797ff798d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/待学清单.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e46692a1e3940c03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/待学清单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c690fbbce8e547f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d6054398bf025d8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/待学清单.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "480273c316acb88c",
+  "lastOpenFiles": [
+    "docs/C++/C++STL组成组件.md",
+    "docs/Unity/Spine动画控制.md",
+    "blog/C++基础知识.md",
+    "node_modules/@node-rs/jieba-android-arm-eabi",
+    "node_modules/@tybys/wasm-util",
+    "node_modules/@emnapi/runtime",
+    "node_modules/@napi-rs/wasm-runtime",
+    "node_modules/@node-rs/jieba-win32-ia32-msvc",
+    "node_modules/@emnapi/core",
+    "node_modules/@node-rs/jieba-win32-arm64-msvc",
+    "node_modules/fsevents",
+    "node_modules/@node-rs/jieba-wasm32-wasi",
+    "node_modules/@node-rs/jieba-linux-x64-musl",
+    "docs/C++/C++List&Vector.md",
+    "docs/C++/C++Map与Set.md",
+    "blog/Lambda表达式.md",
+    "blog/C++stlA.md",
+    "blog/C++智能指针.md",
+    "docs/C++/index.md",
+    "docs/C++/C++Vector.md",
+    "docs/数据结构/index.md",
+    "docs/OS/index.md",
+    "docs/OS/内存管理.md",
+    "docs/Unity/index.md",
+    "docs/日语/index.md",
+    "docs/建站日志/index.md",
+    "blog/C++stlB.md"
+  ]
+}
