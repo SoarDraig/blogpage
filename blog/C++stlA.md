@@ -21,7 +21,7 @@ hide_table_of_contents: false
 本文将介绍序列式容器，也可说顺序型容器；
 
 > 本文章**侧重于容器的理解与核心**，**不涉及具体使用**，如需具体使用方法，请访问:
-> - [STL:Vector](/docs/C++/C++List&Vector)
+> - [STL:Vector&List](/docs/C++/C++List&Vector)
 > 更多请访问官网
 
 ---
@@ -101,7 +101,7 @@ int main() {
 ```
 
 可以看出，vector相比array，最大的改善就是允许直接插入删除，不在需要担心容量问题，是一个相当优秀的上位替代。  
-注意，Vector是常用的库,为**重点**，详细用法请参考:[C++:Vector](/docs/C++/C++Vector)
+注意，Vector是常用的库,为**重点**，详细用法请参考:[C++:Vector&List](/docs/C++/C++List&Vector)
 
 ---
 ## 双端队列(deque)
