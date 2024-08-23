@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Spine动画控制
 Spine通过骨骼系统（骨架）来驱动 2D 图形，实现流畅的动画效果，适合角色动画的制作。其拥有很多优点，例如
