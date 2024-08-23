@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# Spine动画控制入门
+# Spine动画控制
 Spine通过骨骼系统（骨架）来驱动 2D 图形，实现流畅的动画效果，适合角色动画的制作。其拥有很多优点，例如
 - **骨骼动画**：通过骨骼进行运动，减少动画工作量，提升复用率。
 - **动画混合**：可以在不同动画之间进行平滑过渡，如走路和跑步的动画混合。
@@ -78,7 +78,7 @@ private void OnAnimationComplete(TrackEntry entry)
 _skeletonAnimation.AnimationState.Event += AnimationState_Event;
 private void AnimationState_Event(TrackEntry trackEntry, Spine.Event e)
     {
-        if (e.Data.Name == "OnAttack")
+        if (e.Data.Name == "OnAttack") 
         {
             _player.Fire();
         }

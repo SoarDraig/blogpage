@@ -1,0 +1,22 @@
+{
+    "label": "计算机操作系统",
+    "position": 7,
+    "link": {
+        "type": "generated-index",
+        "title": "操作系统学习资源",
+        "description": "深入学习计算机操作系统。",
+        "slug": "OSLearn",
+        "keywords": [
+            "操作系统",
+            "计算机",
+            "Linux",
+            "Windows",
+            "进程",
+            "线程",
+            "调度",
+            "内存管理",
+            "文件系统",
+            "I/O"
+        ]
+    }
+}
