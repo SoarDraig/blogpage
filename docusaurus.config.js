@@ -125,7 +125,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Links',
+            title: '链接',
             items: [
               {
                 label: 'Docs',
@@ -138,7 +138,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '社交',
             items: [
               {
                 label: 'Twitter',
@@ -155,7 +155,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'Home',
