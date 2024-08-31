@@ -1,7 +1,7 @@
 # UI设计与观察者模式
 #### 示例
 
-```C++
+``` csharp
 public class Subject
 {
     private List<IObserver> observers = new List<IObserver>();

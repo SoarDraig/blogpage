@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/待学清单.md",
+                "file": "docs/_gamelife/游戏概览.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/待学清单.md",
+                "file": "docs/_gamelife/游戏概览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/待学清单.md",
+                "file": "docs/_gamelife/游戏概览.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/待学清单.md"
+                "file": "docs/_gamelife/游戏概览.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,42 +147,42 @@
   },
   "active": "480273c316acb88c",
   "lastOpenFiles": [
-    "docs/C++/虚函数和虚表详细总结.md",
-    "docs/数据结构与算法/树和图/_图的表示与遍历（DFS, BFS）.md",
-    "docs/数据结构与算法/树和图/_二叉树与二叉搜索树.md",
-    "docs/数据结构与算法/排序算法/_预备.md",
-    "docs/数据结构与算法/排序算法/快速排序.md",
-    "blog/C++stlA.md",
-    "docs/C++/C++List&Vector.md",
-    "docs/C++/_继承.md",
-    "docs/数据结构与算法/_哈希表与散列函数.md",
-    "docs/数据结构与算法/树和图/平衡树（AVL, 红黑树）.md",
-    "docs/C++/智能指针与RAII.md",
-    "docs/C++/强制类型转换.md",
-    "docs/C++/_宏与预处理指令.md",
+    "docs/index.md",
+    "docs/Unity/_类塔科夫，塔防网格构建.md",
+    "docs/Unity/_内存管理与GC优化.md",
+    "docs/Unity/零碎的知识点.md",
+    "docs/DataStructureAndAlgorithmLearn/树和图/二叉树的遍历与搜索.md",
+    "docs/DataStructureAndAlgorithmLearn/树和图/_平衡树（AVL, 红黑树）.md",
+    "docs/DataStructureAndAlgorithmLearn/排序算法/杂项.md",
+    "blog/_Unity网格系统构建，类塔科夫背包，建造系统.md",
+    "blog/Unity网格系统构建，类塔科夫背包，建造系统.md",
+    "docs/DesignPattern/_类塔科夫背包与混合模式.md",
+    "docs/DesignPattern/类塔科夫背包与混合模式.md",
+    "docs/DataStructureAndAlgorithmLearn/排序算法/快速排序.md",
+    "docs/DataStructureAndAlgorithmLearn/排序算法/插入排序.md",
     "docs/待学清单.md",
+    "docs/DataStructureAndAlgorithmLearn/算法思想/动态规划.md",
+    "docs/DataStructureAndAlgorithmLearn/算法思想/分治思想.md",
+    "docs/DataStructureAndAlgorithmLearn/算法思想/回溯思想.md",
+    "docs/Game Engine/渲染.md",
+    "docs/Game Engine/Games-104/渲染.md",
+    "docs/Game Engine/Games-104",
+    "docs/Game Engine/Games104",
+    "docs/Game Engine/_category_.json",
+    "docs/Game Engine",
+    "docs/游戏引擎/_category_.json",
+    "docs/游戏引擎",
+    "docs/Unity/类塔科夫，塔防网格构建.md",
+    "docs/DataStructureAndAlgorithmLearn/_哈希表与散列函数.md",
+    "docs/DataStructureAndAlgorithmLearn/排序算法/冒泡排序.md",
+    "docs/DataStructureAndAlgorithmLearn/树和图/平衡树（AVL, 红黑树）.md",
+    "docs/Net/服务器CDN与域名.md",
+    "docs/Net/面向连接TCPUDP.md",
     "docs/C++/C++Map与Set.md",
-    "blog/Lambda表达式.md",
-    "blog/C++stlB.md",
-    "docs/设计模式/游戏管理器与单例模式.md",
-    "docs/设计模式/UI设计与观察者模式.md",
-    "docs/设计模式/武器改装与策略模式，装饰器，组件模式.md",
-    "docs/C++/C++STL组成组件.md",
-    "docs/设计模式/敌人生成与工厂模式.md",
-    "docs/数据结构与算法/排序算法/一览.md",
     "node_modules/rehype-katex/node_modules/hast-util-is-element/lib/index.d.ts",
     "node_modules/rehype-katex/node_modules/hast-util-is-element/lib/index.js",
     "node_modules/rehype-katex/node_modules/hast-util-is-element/lib",
     "node_modules/rehype-katex/node_modules/unist-util-find-after/lib/index.js",
-    "node_modules/rehype-katex/node_modules/unist-util-find-after/lib/index.d.ts",
-    "node_modules/rehype-katex/node_modules/unist-util-find-after/lib",
-    "node_modules/hast-util-from-html/lib/types.js",
-    "node_modules/hast-util-from-html/lib/types.d.ts",
-    "node_modules/hast-util-from-html/lib/index.d.ts.map",
-    "node_modules/hast-util-from-html/lib/index.js",
-    "node_modules/rehype-katex/readme.md",
-    "node_modules/micromark-extension-math/readme.md",
-    "node_modules/katex/src/metrics/README.md",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
