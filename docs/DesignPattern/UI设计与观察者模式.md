@@ -24,7 +24,8 @@ public class ConcreteObserver : IObserver
 {
     public void Update()
     {
-        // Update logic
+	    // 更新逻辑
+        HealthBar = XXX;
     }
 }
 ```

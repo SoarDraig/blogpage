@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03ddf70b7e2269d9",
+        "id": "aa0a4507b666faca",
         "type": "tabs",
         "children": [
           {
-            "id": "480273c316acb88c",
+            "id": "c5ed695040795c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_gamelife/游戏概览.md",
+                "file": "docs/C++/智能指针与RAII.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/_gamelife/游戏概览.md",
+                "file": "docs/C++/智能指针与RAII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/_gamelife/游戏概览.md",
+                "file": "docs/C++/智能指针与RAII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/_gamelife/游戏概览.md"
+                "file": "docs/C++/智能指针与RAII.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,44 +146,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "480273c316acb88c",
+  "active": "c5ed695040795c20",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/Unity/_类塔科夫，塔防网格构建.md",
-    "docs/Unity/_内存管理与GC优化.md",
-    "docs/Unity/零碎的知识点.md",
-    "docs/DataStructureAndAlgorithmLearn/树和图/二叉树的遍历与搜索.md",
-    "docs/DataStructureAndAlgorithmLearn/树和图/_平衡树（AVL, 红黑树）.md",
-    "docs/DataStructureAndAlgorithmLearn/排序算法/杂项.md",
-    "blog/_Unity网格系统构建，类塔科夫背包，建造系统.md",
-    "blog/Unity网格系统构建，类塔科夫背包，建造系统.md",
-    "docs/DesignPattern/_类塔科夫背包与混合模式.md",
-    "docs/DesignPattern/类塔科夫背包与混合模式.md",
-    "docs/DataStructureAndAlgorithmLearn/排序算法/快速排序.md",
-    "docs/DataStructureAndAlgorithmLearn/排序算法/插入排序.md",
+    "docs/C++/虚函数和虚表详细总结.md",
+    "docs/C++/强制类型转换.md",
+    "docs/C++/STL组成组件.md",
+    "docs/C++/volatile、mutable，explicit.md",
+    "docs/C++/List、Vector、Map、Set.md",
+    "docs/C++/new、delete对比malloc、free.md",
+    "docs/OS/_C++从代码到可执行程序经历了什么？.md",
+    "docs/C++/C++补充知识点.md",
     "docs/待学清单.md",
-    "docs/DataStructureAndAlgorithmLearn/算法思想/动态规划.md",
-    "docs/DataStructureAndAlgorithmLearn/算法思想/分治思想.md",
-    "docs/DataStructureAndAlgorithmLearn/算法思想/回溯思想.md",
-    "docs/Game Engine/渲染.md",
-    "docs/Game Engine/Games-104/渲染.md",
+    "docs/C++/new、delete、malloc、free.md",
+    "docs/C++/智能指针与RAII.md",
+    "docs/C++/new&delete&malloc&free.md",
+    "docs/C++/new/delete与malloc/free的异同.md",
+    "docs/C++/new/delete与malloc/free的对比.md",
+    "docs/C++/new/delete与malloc",
+    "docs/C++/new",
+    "blog/C++stlA.md",
+    "docs/C++/Map&Set.md",
+    "docs/C++/List&Vector.md",
+    "docs/C++/volatile、mutable和explicit关键字.md",
+    "docs/C++/Map与Set.md",
+    "blog/C++智能指针.md",
+    "blog/C++AdPtr.md",
+    "docs/C++/_宏与预处理指令.md",
+    "docs/C++/_继承.md",
+    "docs/Unity/_内存管理与GC优化.md",
+    "docs/Unity/_类塔科夫，塔防网格构建.md",
+    "docs/Unity/零碎的知识点.md",
     "docs/Game Engine/Games-104",
     "docs/Game Engine/Games104",
     "docs/Game Engine/_category_.json",
     "docs/Game Engine",
     "docs/游戏引擎/_category_.json",
     "docs/游戏引擎",
-    "docs/Unity/类塔科夫，塔防网格构建.md",
-    "docs/DataStructureAndAlgorithmLearn/_哈希表与散列函数.md",
-    "docs/DataStructureAndAlgorithmLearn/排序算法/冒泡排序.md",
-    "docs/DataStructureAndAlgorithmLearn/树和图/平衡树（AVL, 红黑树）.md",
-    "docs/Net/服务器CDN与域名.md",
-    "docs/Net/面向连接TCPUDP.md",
-    "docs/C++/C++Map与Set.md",
     "node_modules/rehype-katex/node_modules/hast-util-is-element/lib/index.d.ts",
     "node_modules/rehype-katex/node_modules/hast-util-is-element/lib/index.js",
-    "node_modules/rehype-katex/node_modules/hast-util-is-element/lib",
-    "node_modules/rehype-katex/node_modules/unist-util-find-after/lib/index.js",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",

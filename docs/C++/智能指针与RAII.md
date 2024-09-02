@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # 智能指针与RAII
 ## 一、智能指针 (Smart Pointers)
 > 博客[关于智能指针的再学习与理解。](/blog/C++AdPtr)有着更完整的知识点与理解，建立优先学习博客内容。

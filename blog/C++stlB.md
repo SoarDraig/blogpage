@@ -15,7 +15,7 @@ hide_table_of_contents: false
 > 习，将不会过于深入。  
 
 所以本文章的深度不会太大，更关心他们是什么，有什么用。  
-[具体用法——C++Map&Set](/docs/C++/C++Map与Set)
+[具体用法——C++Map&Set](Map&Set.md)
 
 
 # 知识点
