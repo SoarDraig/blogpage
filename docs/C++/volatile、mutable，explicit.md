@@ -65,7 +65,7 @@ public:
 
 样例二
 
-```
+```cpp
 class person
 {
 public:
