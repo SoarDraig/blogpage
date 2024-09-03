@@ -77,6 +77,8 @@ const config = {
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          blogSidebarTitle: '所有文章',
+          blogSidebarCount: 'ALL', // 或者指定一个具体数字，例如 '10'
         },
         theme: {
           customCss: './src/css/custom.css',
