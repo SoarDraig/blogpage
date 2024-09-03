@@ -123,6 +123,20 @@ const config = {
 
         ],
       },
+      scripts: [
+        {
+          src: 'https://zz.bdstatic.com/linksubmit/push.js',
+          async: true,
+          defer: true,
+          condition: () => window.location.protocol === 'https:',
+        },
+        {
+          src: 'http://push.zhanzhang.baidu.com/push.js',
+          async: true,
+          defer: true,
+          condition: () => window.location.protocol === 'http:',
+        },
+      ],
       footer: {
         style: 'dark',
         links: [
@@ -156,6 +170,7 @@ const config = {
               }
             ],
           },
+
           {
             title: '更多',
             items: [
