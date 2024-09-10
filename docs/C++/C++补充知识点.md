@@ -302,7 +302,7 @@ printf是行缓冲输出，不是无缓冲输出。
 	
 	 - memcpy主要是内存块间的拷贝。
 
-### 22. 内存分区
+## 19. 内存分区
 
 在大多数现代操作系统中，程序的内存通常分为以下几个主要区域：
 
@@ -317,3 +317,26 @@ printf是行缓冲输出，不是无缓冲输出。
 - **栈区（Stack）**：用于函数调用时分配局部变量、参数、返回地址等信息。栈区内存由编译器自动分配和释放，通常随着函数的进入和退出进行分配和回收。
     
 - **常量区（Constant Segment）**：存放常量数据，例如字符串常量、`const`修饰的全局变量等。这部分数据通常是只读的。
+
+## 20、malloc、calloc、realloc和alloca
+
+1、malloc：不初始化。
+```cpp
+void* malloc(size_t size);
+// 分配一块size大小的内存，位于堆。
+```
+2、calloc：初始化为0。
+```cpp
+void* calloc(size_t num, size_t size);
+// 分配一块内存，大小包含num个大小为size的元素；
+```
+3、realloc：内存块原来的内容不变，如果内存变小，则相应内容少掉。
+```cpp
+void* realloc(void* ptr , size_t size);
+// 改变ptr指向的内存为size；
+```
+4、alloca：在栈上分配空间，作用域结束自动释放。
+```cpp
+void* alloca(size_t size);
+// 分配一块内存，大小为size，位于栈中。
+```
