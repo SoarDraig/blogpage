@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/C++/volatile、mutable，explicit.md",
+                "file": "docs/Unity/背包式通用网格构建.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/C++/volatile、mutable，explicit.md",
+                "file": "docs/Unity/背包式通用网格构建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/C++/volatile、mutable，explicit.md",
+                "file": "docs/Unity/背包式通用网格构建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/C++/volatile、mutable，explicit.md"
+                "file": "docs/Unity/背包式通用网格构建.md"
               }
             }
           }
@@ -149,23 +149,39 @@
   },
   "active": "c5ed695040795c20",
   "lastOpenFiles": [
-    "docs/Unity/背包式通用网格构建.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
-    "build/lunr-index-1725961095388.json",
-    "build/lunr-index.json",
-    "build/search-doc-1725961095388.json",
-    "build/search-doc.json",
     "build/blog/rss.css",
     "build/blog/atom.css",
+    "build/lunr-index-1725972083620.json",
+    "build/search-doc-1725972083620.json",
     "build/blog/rss.xsl",
     "build/blog/atom.xsl",
+    "build/docs/Net/面向连接TCPUDP/index.html",
+    "build/docs/Game Engine/渲染/index.html",
+    "build/docs/Net/服务器CDN与域名/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/docusaurus.png",
     "build/img/logo.svg",
+    "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
+    "docs/Unity/八叉树，空间划分.md",
+    "blog/八叉树，分裂空间的魔法师.md",
+    "Pasted image 20240910195529.png",
+    "blog/伪装成函数的Lambda表达式.md",
+    "blog/关于顺序容器的个人在学习与理解.md",
+    "blog/关于关联容器的理解感悟.md",
+    "blog/从源代码看push_back与emplace_back.md",
+    "docs/Unity/背包式通用网格构建.md",
+    "docs/Unity/未命名.md",
+    "docs/Unity/零碎的知识点.md",
+    "docs/DesignPattern/武器改装与策略模式，装饰器，组件模式.md",
+    "docs/Unity/状态机FSM.md",
+    "docs/Unity/_内存管理与GC优化.md",
+    "docs/Unity/Spine动画控制.md",
+    "docs/Game Engine/渲染.md",
+    "docs/C++/volatile、mutable，explicit.md",
     "docs/C++/STL组成组件.md",
     "docs/C++/new、delete对比malloc、free.md",
     "docs/C++/List、Vector、Map、Set.md",
@@ -175,21 +191,6 @@
     "docs/C++/虚函数和虚表详细总结.md",
     "docs/C++/智能指针与RAII.md",
     "docs/C++/强制类型转换.md",
-    "docs/Unity/类塔科夫，塔防网格构建.md",
-    "docs/Unity/Spine动画控制.md",
-    "docs/Unity/状态机FSM.md",
-    "docs/Unity/零碎的知识点.md",
-    "docs/Unity/网格系统构建.md",
-    "docs/Unity/_内存管理与GC优化.md",
-    "docs/待学清单.md",
-    "docs/DesignPattern/_类塔科夫背包与混合模式.md",
-    "docs/DesignPattern/UI设计与观察者模式.md",
-    "docs/OS/_并发与同步机制.md",
-    "docs/Csharp/_泛型与集合.md",
-    "docs/Csharp/事件与委托.md",
-    "docs/Csharp/_异步编程.md",
-    "docs/C++/volatile、mutable，explicit.md",
-    "docs/C++/_继承.md",
-    "docs/index.md"
+    "docs/Unity/类塔科夫，塔防网格构建.md"
   ]
 }
