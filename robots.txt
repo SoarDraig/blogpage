@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.soardraig.com/sitemap.xml

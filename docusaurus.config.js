@@ -14,18 +14,20 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://blog.soardraig.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'SoarDraig', // Usually your GitHub org/user name.
+  projectName: 'blogpage', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -46,6 +48,8 @@ const config = {
       '@docusaurus/plugin-sitemap',
       {
         id: 'my-custom-sitemap', // 赋予一个唯一的 ID
+        changefreq: 'weekly',
+        priority: 0.5,
       },
     ],
   ],
@@ -137,6 +141,10 @@ const config = {
       //     condition: () => window.location.protocol === 'http:',
       //   },
       // ],
+      metadata: [
+        { name: 'description', content: 'Draig的博客,讨论技术、编程和更多有趣的内容。' },
+        { name: 'keywords', content: '技术博客, 编程, 游戏开发, Docusaurus, Draig' },
+      ],
       footer: {
         style: 'dark',
         links: [
