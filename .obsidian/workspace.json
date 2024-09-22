@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/从源代码看push_back与emplace_back.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/从源代码看push_back与emplace_back.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/从源代码看push_back与emplace_back.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/从源代码看push_back与emplace_back.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,13 +147,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c5ed695040795c20",
+  "active": "4ddf7d9d8c29aaab",
   "lastOpenFiles": [
+    "blog/从源代码看push_back与emplace_back.md",
     "blog/Unity网格系统构建，类塔科夫背包，建造系统.md",
     "docs/DesignPattern/_类塔科夫背包与混合模式.md",
     "docs/DesignPattern/武器改装与策略模式，装饰器，组件模式.md",
     "blog/_从画质设置看游戏引擎.md",
-    "blog/从源代码看push_back与emplace_back.md",
     "blog/八叉树，分裂空间的魔法师.md",
     "blog/伪装成函数的Lambda表达式.md",
     "docs/C++/C++补充知识点.md",
