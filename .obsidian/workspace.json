@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "blog/_从画质设置看游戏引擎.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "blog/_从画质设置看游戏引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "blog/_从画质设置看游戏引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "blog/_从画质设置看游戏引擎.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ddf7d9d8c29aaab",
+  "active": "c5ed695040795c20",
   "lastOpenFiles": [
+    "README.md",
     "blog/从源代码看push_back与emplace_back.md",
     "blog/Unity网格系统构建，类塔科夫背包，建造系统.md",
     "docs/DesignPattern/_类塔科夫背包与混合模式.md",
@@ -174,7 +175,6 @@
     "docs/待学清单.md",
     "docs/Unity/零碎的知识点.md",
     "docs/C++/智能指针与RAII.md",
-    "docs/Unity/Spine动画控制.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/blog/rss.css",
