@@ -3,9 +3,11 @@ sidebar_position: 18
 ---
 
 # List、Vector、Map、Set
-> 本文仅包含用法，了解更多请访问  
-> [C++标准库——STL库之顺序容器](/blog/C++stlA)  
-> [C++关于关联容器的理解感悟](/blog/C++stlB)
+:::info
+本文仅包含用法，了解更多请访问  
+[C++标准库——STL库之顺序容器](/blog/C++stlA)  
+[C++关于关联容器的理解感悟](/blog/C++stlB)
+:::
 
 ## std::vector
 代码示例:

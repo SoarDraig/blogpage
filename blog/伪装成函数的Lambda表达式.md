@@ -3,9 +3,9 @@ slug: C++Lambda
 title: 伪装成函数的Lambda表达式
 tags: [C++, Programming]
 date: 2024-04-28
-keywords: [C++, Advanced Programming]
+keywords: [C++, Advanced Programming, Lambda]
+summary: "Lambda 表达式是 C++11 引入的一种内嵌的匿名函数，其功能类似于一个在函数体内定义的特殊函数，主要用于处理局部逻辑和数据封装。它的作用范围仅限于定义它的函数块，能够捕获外部变量并进行操作。"
 draft: false
-hide_table_of_contents: false
 ---
 Lambda 表达式是 C++11 引入的一种 内嵌 的 匿名函数，其功能类似于一个在函数体内定义的特殊函数，主要用于处理局部逻辑和数据封装。它的作用范围仅限于定义它的函数块，能够捕获外部变量并进行操作。
 <!--truncate-->

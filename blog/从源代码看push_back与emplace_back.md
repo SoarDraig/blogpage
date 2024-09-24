@@ -8,7 +8,6 @@ date: 2024-09-03
 summary: "深入探讨 C++ 中的 push_back 和 emplace_back 的区别，通过源代码分析性能优化及构造行为。"
 keywords: [C++, push_back, emplace_back, std::vector, 拷贝构造, 移动构造, 性能优化, 完美转发, 源代码分析, 容器]
 draft: false
-hide_table_of_contents: false
 ---
 
 为更好地理解这两者的区别，我决定通过源代码进行深入研究。本文将分析这两个函数的实现机制，探讨它们在性能和使用上的差异，并总结在使用时的最佳实践。

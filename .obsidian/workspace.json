@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/从画质设置看游戏引擎（其一）.md",
+                "file": "docs/待学清单.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/从画质设置看游戏引擎（其一）.md",
+                "file": "docs/待学清单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/从画质设置看游戏引擎（其一）.md",
+                "file": "docs/待学清单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/从画质设置看游戏引擎（其一）.md"
+                "file": "docs/待学清单.md"
               }
             }
           }
@@ -149,48 +149,48 @@
   },
   "active": "c5ed695040795c20",
   "lastOpenFiles": [
-    "build/lunr-index-1727166993043.json",
-    "build/lunr-index.json",
-    "build/search-doc-1727166993043.json",
-    "build/search-doc.json",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
-    "build/blog/atom.css",
     "build/blog/rss.css",
-    "build/blog/atom.xsl",
+    "build/blog/atom.css",
+    "build/lunr-index-1727176654933.json",
+    "build/lunr-index.json",
+    "build/search-doc-1727176654933.json",
+    "build/search-doc.json",
     "build/blog/rss.xsl",
+    "build/blog/atom.xsl",
     "build/sitemap.xml",
-    "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
-    "build/img/logo.svg",
-    "build/img/docusaurus-social-card.jpg",
+    "build/img/undraw_docusaurus_tree.svg",
     "build/img/docusaurus.png",
+    "build/img/docusaurus-social-card.jpg",
+    "build/img/logo.svg",
+    "docs/Unity/Spine动画控制.md",
     "blog/八叉树，分裂空间的魔法师.md",
-    "blog/从画质设置看游戏引擎（其一）.md",
-    "README.md",
-    "blog/从源代码看push_back与emplace_back.md",
     "blog/Unity网格系统构建，类塔科夫背包，建造系统.md",
+    "blog/左值、右值，移动语义，完美转发，RVO.md",
+    "blog/智能指针的再学习与理解.md",
+    "blog/伪装成函数的Lambda表达式.md",
+    "blog/关于顺序容器的个人在学习与理解.md",
+    "blog/关于关联容器的理解感悟.md",
+    "blog/从源代码看push_back与emplace_back.md",
+    "blog/从画质设置看游戏引擎（其一）.md",
+    "docs/Unity/八叉树，空间划分.md",
+    "blog/OctreeNode.md",
+    "docs/Unity/背包式通用网格构建.md",
+    "docs/Unity/_内存管理与GC优化.md",
+    "docs/Game Engine/渲染.md",
+    "README.md",
     "docs/DesignPattern/_类塔科夫背包与混合模式.md",
     "docs/DesignPattern/武器改装与策略模式，装饰器，组件模式.md",
-    "blog/伪装成函数的Lambda表达式.md",
     "docs/C++/C++补充知识点.md",
     "docs/C++/虚函数和虚表详细总结.md",
     "docs/C++/STL组成组件.md",
     "docs/DesignPattern/敌人生成与工厂模式.md",
-    "blog/关于顺序容器的个人在学习与理解.md",
-    "blog/关于关联容器的理解感悟.md",
     "docs/C++/List、Vector、Map、Set.md",
     "blog/C++stlB.md",
     "docs/C++/emplace_back与push_back详细对比.md",
-    "docs/C++/new、delete对比malloc、free.md",
-    "docs/Unity/背包式通用网格构建.md",
-    "docs/Unity/八叉树，空间划分.md",
-    "2024-09-15.md",
-    "docs/C++/_继承.md",
-    "docs/C++/特性萃取.md",
-    "docs/待学清单.md",
-    "docs/Unity/零碎的知识点.md",
     "Pasted image 20240910195529.png"
   ]
 }

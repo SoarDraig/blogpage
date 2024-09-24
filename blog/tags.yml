@@ -27,3 +27,8 @@ Lua:
   label: Lua
   permalink: /Lua
   description: Lua tag description
+
+Game Engine:
+  label: Game Engine
+  permalink: /Game-Engine
+  description: Game Engine tag description
