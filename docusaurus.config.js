@@ -49,7 +49,7 @@ const config = {
       {
         id: 'my-custom-sitemap', // 赋予一个唯一的 ID
         changefreq: 'weekly',
-        priority: 0.5,
+        priority: 0.7,
       },
     ],
   ],
