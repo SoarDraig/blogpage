@@ -1,9 +1,14 @@
-// index.js
-import React from 'react';
-import { Redirect } from 'react-router-dom';
+import React, { useEffect } from 'react';
+import { useHistory } from 'react-router-dom';
 
 function Home() {
-  return <Redirect to="/docs" />;
+  const history = useHistory();
+
+  useEffect(() => {
+    history.push('/docs');
+  }, [history]);
+
+  return null;
 }
 
 export default Home;
