@@ -71,7 +71,6 @@ const config = {
 
         blog: {
           path: './blog',
-          routeBasePath: '/blog',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
