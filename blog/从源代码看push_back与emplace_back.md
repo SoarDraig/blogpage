@@ -1,11 +1,11 @@
 ---
-slug: C++push_back&emplace_back
+slug: push_back&emplace_back
 title: 从源代码看push_back与emplace_back
 tags:
   - C++
   - Programming
 date: 2024-09-03
-summary: "深入探讨 C++ 中的 push_back 和 emplace_back 的区别，通过源代码分析性能优化及构造行为。"
+summary: "深入探讨 push_back 和 emplace_back 的区别，通过源代码分析性能优化及构造行为。"
 keywords: [C++, push_back, emplace_back, std::vector, 拷贝构造, 移动构造, 性能优化, 完美转发, 源代码分析, 容器]
 draft: false
 ---

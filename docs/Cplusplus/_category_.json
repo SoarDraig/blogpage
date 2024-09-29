@@ -1,11 +1,11 @@
 {
-    "label": "C++",
+    "label": "Cplusplus",
     "position": 3,
     "link": {
         "type": "generated-index",
-        "title": "C++ 学习资源",
+        "title": "Cplusplus 学习资源",
         "description": "深入学习C++编程语言。",
-        "slug": "C++",
+        "slug": "Cplusplus",
         "keywords": [
             "C++",
             "面向对象",
