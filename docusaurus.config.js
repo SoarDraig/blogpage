@@ -48,7 +48,7 @@ const config = {
       '@docusaurus/plugin-sitemap',
       {
         id: 'my-custom-sitemap', // 赋予一个唯一的 ID
-        changefreq: 'weekly',
+        changefreq: 'daily',
         priority: 0.7,
       },
     ],
