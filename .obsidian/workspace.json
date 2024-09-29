@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Csharp/Csharp补充知识点.md",
+                "file": "blog/开发中众多框架的个人理解.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Csharp/Csharp补充知识点.md",
+                "file": "blog/开发中众多框架的个人理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Csharp/Csharp补充知识点.md",
+                "file": "blog/开发中众多框架的个人理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Csharp/Csharp补充知识点.md"
+                "file": "blog/开发中众多框架的个人理解.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "c5ed695040795c20",
   "lastOpenFiles": [
+    "docs/Cplusplus/补充知识点.md",
+    "blog/关于顺序容器的个人在学习与理解.md",
+    "blog/开发中众多框架的个人理解.md",
+    "docs/Csharp/Csharp补充知识点.md",
     "build/blog/atom.xml",
     "build/lunr-index-1727585749185.json",
     "build/lunr-index.json",
@@ -159,7 +163,6 @@
     "build/blog/rss.css",
     "build/blog/atom.xsl",
     "build/blog/rss.xsl",
-    "build/sitemap.xml",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -178,7 +181,6 @@
     "docs/Cplusplus/List、Vector、Map、Set.md",
     "docs/Cplusplus/C++补充知识点.md",
     "docs/Csharp/事件与委托.md",
-    "docs/Csharp/Csharp补充知识点.md",
     "docs/待学清单.md",
     "docs/Unity/Spine动画控制.md",
     "blog/八叉树，分裂空间的魔法师.md",
@@ -186,11 +188,9 @@
     "blog/左值、右值，移动语义，完美转发，RVO.md",
     "blog/智能指针的再学习与理解.md",
     "blog/伪装成函数的Lambda表达式.md",
-    "blog/关于顺序容器的个人在学习与理解.md",
     "blog/关于关联容器的理解感悟.md",
     "blog/从源代码看push_back与emplace_back.md",
     "blog/从画质设置看游戏引擎（其一）.md",
-    "docs/Unity/八叉树，空间划分.md",
     "Pasted image 20240910195529.png"
   ]
 }
