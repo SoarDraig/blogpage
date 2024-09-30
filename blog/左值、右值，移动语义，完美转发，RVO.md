@@ -1,5 +1,5 @@
 ---
-slug: C++Learn1
+slug: Learn1
 title: C++高级特性——左值、右值，移动语义，完美转发，RVO。
 tags:
   - C++

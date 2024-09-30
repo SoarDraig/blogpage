@@ -1,5 +1,5 @@
 ---
-slug: C++Lambda
+slug: Lambda
 title: 伪装成函数的Lambda表达式
 tags: [C++, Programming]
 date: 2024-04-28

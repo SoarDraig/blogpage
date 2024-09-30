@@ -1,5 +1,5 @@
 ---
-slug: push_back&emplace_back
+slug: pushandemplace
 title: 从源代码看push_back与emplace_back
 tags:
   - C++
