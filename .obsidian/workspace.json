@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/开发中众多框架的个人理解.md",
+                "file": "blog/状态机与行为树.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/开发中众多框架的个人理解.md",
+                "file": "blog/状态机与行为树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/开发中众多框架的个人理解.md",
+                "file": "blog/状态机与行为树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/开发中众多框架的个人理解.md"
+                "file": "blog/状态机与行为树.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "c5ed695040795c20",
   "lastOpenFiles": [
-    "docs/Cplusplus/补充知识点.md",
-    "blog/关于顺序容器的个人在学习与理解.md",
     "blog/开发中众多框架的个人理解.md",
+    "blog/状态机与行为树.md",
+    "blog/智能指针的再学习与理解.md",
+    "blog/从源代码看push_back与emplace_back.md",
+    "blog/关于顺序容器的个人在学习与理解.md",
+    "docs/Cplusplus/补充知识点.md",
     "docs/Csharp/Csharp补充知识点.md",
     "build/blog/atom.xml",
     "build/lunr-index-1727585749185.json",
@@ -186,11 +189,8 @@
     "blog/八叉树，分裂空间的魔法师.md",
     "blog/Unity网格系统构建，类塔科夫背包，建造系统.md",
     "blog/左值、右值，移动语义，完美转发，RVO.md",
-    "blog/智能指针的再学习与理解.md",
     "blog/伪装成函数的Lambda表达式.md",
     "blog/关于关联容器的理解感悟.md",
-    "blog/从源代码看push_back与emplace_back.md",
-    "blog/从画质设置看游戏引擎（其一）.md",
     "Pasted image 20240910195529.png"
   ]
 }

@@ -1,0 +1,13 @@
+{
+    "label": "学习趣事",
+    "position": 55,
+    "link": {
+        "type": "generated-index",
+        "title": "一些学习有趣的事情",
+        "description": "一些学习有趣的事情",
+        "slug": "SomeThing",
+        "keywords": [
+            "学习趣事"
+        ]
+    }
+}

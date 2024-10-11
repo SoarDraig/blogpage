@@ -1,0 +1,13 @@
+{
+    "label": "HomeWork",
+    "position": 101,
+    "link": {
+        "type": "generated-index",
+        "title": "课堂作业",
+        "description": "自己老师布置的作业",
+        "slug": "HomeWork",
+        "keywords": [
+            "课堂作业"
+        ]
+    }
+}
