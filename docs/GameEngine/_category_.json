@@ -1,11 +1,11 @@
 {
-    "label": "Unity",
+    "label": "游戏引擎",
     "position": 7,
     "link": {
         "type": "generated-index",
-        "title": "Unity 学习资源",
-        "description": "深入学习Unity引擎。",
-        "slug": "Unity",
+        "title": "对部分游戏引擎的学习",
+        "description": "探索这梦幻的虚拟世界吧！",
+        "slug": "GameEngine",
         "keywords": [
             "Unity",
             "游戏引擎",
@@ -16,7 +16,9 @@
             "物理引擎",
             "游戏设计",
             "游戏制作",
-            "游戏编程"
+            "游戏编程",
+            "GameEngine",
+            "UnrealEngine"
         ]
     }
 }
