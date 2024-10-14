@@ -94,12 +94,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'https://cdn.soardraig.top/img/homepage/NewAvator.jpg',
       navbar: {
         title: "Draig's Blog",
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'https://cdn.soardraig.top/img/homepage/NewAvator.jpg',
           href: '/blog',
         },
         items: [
