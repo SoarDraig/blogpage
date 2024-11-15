@@ -1,0 +1,16 @@
+{
+    "label": "个人自用",
+    "position": 90,
+    "link": {
+        "type": "generated-index",
+        "title": "个人自用",
+        "description": "个人自用的小笔记",
+        "slug": "meff",
+        "keywords": [
+            "个人自用",
+            "自用",
+            "简历模版",
+            "自我介绍"
+        ]
+    }
+}

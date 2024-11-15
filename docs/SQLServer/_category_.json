@@ -1,0 +1,17 @@
+{
+    "label": "SQL Server",
+    "position": 20,
+    "link": {
+        "type": "generated-index",
+        "title": "SQL Server",
+        "description": "SQL Server 相关的内容",
+        "slug": "SQLServer",
+        "keywords": [
+            "SQL Server",
+            "SQLServer",
+            "SQL",
+            "T-SQL",
+            "数据库"
+        ]
+    }
+}
