@@ -99,7 +99,7 @@ const config = {
         title: "Draig's Blog",
         logo: {
           alt: 'My Site Logo',
-          src: 'https://cdn.soardraig.top/img/homepage/NewAvator.jpg',
+          src: 'img/logo.svg',
           href: '/blog',
         },
         items: [
