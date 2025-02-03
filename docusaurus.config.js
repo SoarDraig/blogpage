@@ -94,7 +94,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://cdn.soardraig.top/img/homepage/NewAvator.jpg',
+      image: 'https://cdn.soardraig.com/information/Avator.jpg',
       navbar: {
         title: "Draig's Blog",
         logo: {
